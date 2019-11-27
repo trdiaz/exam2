@@ -1,4 +1,4 @@
-# exam2
+# Exam2
 CS 1290 Problem Solving
 
 ## Description:

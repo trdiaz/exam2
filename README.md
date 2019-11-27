@@ -14,3 +14,9 @@ For each problem:
 
 - Code your solution.
 
+## Problems:
+1. stone-game
+2. minimum-falling-path-sum
+3. palindromic-substrings
+4. arithmetic-slices 
+5. perfect-squares

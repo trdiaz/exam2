@@ -15,8 +15,8 @@ For each problem:
 - Code your solution.
 
 ### Problems:
-1. stone-game
-2. minimum-falling-path-sum
-3. palindromic-substrings
-4. arithmetic-slices 
-5. perfect-squares
+1. Stone-game
+2. Minimum-falling-path-sum
+3. Palindromic-substrings
+4. Arithmetic-slices 
+5. Perfect-squares

@@ -16,3 +16,7 @@ For each problem:
 3. Palindromic-substrings
 4. Arithmetic-slices 
 5. Perfect-squares
+
+
+### References:
+https://leetcode.com/

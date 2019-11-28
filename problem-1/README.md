@@ -6,13 +6,13 @@ Alex and Lee take turns, with Alex starting first.  Each turn, a player takes th
 
 Assuming Alex and Lee play optimally, return True if and only if Alex wins the game.
 
-## Step-1: Defining problem and solution recursively
+## Step-1: Defining the problem and solution recursively
+A recursive approach to this problem is to find 
+
+## Step-2: Utilization of sub-problems to solve a global problem
 
 
-## Step-2: Dynamic Programming 
-
-
-## Step-3: IDEAL and Duke 7
+## Step-3: IDEAL and Duke 7 implmentation
 
 
 

@@ -12,9 +12,9 @@ class ProblemOne {
             for (int j = s2.length() - 1; j >= 0; j--) {
                 if (s1.charAt(i) == s2.charAt(j)) {
                     min[i][j] = min[i+1][j+1];
-                } else {
-                    min[i][j] = Math.min(min[i+1][j] +  s1.charAt(i),
-                                        min[i][j+1] +  s2.charAt(j));
+                } 
+                else {
+                    min[i][j] = Math.min(min[i+1][j] +  s1.charAt(i), min[i][j+1] +  s2.charAt(j));
                 }
             }
         }

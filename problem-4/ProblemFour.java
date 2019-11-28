@@ -1,6 +1,6 @@
 
 public class ProblemFour {
-    public int numberOfArithmeticSlices(int[] A) {
+    public int numAriSlices(int[] A) {
         int count = 0;
         for (int s = 0; s < A.length - 2; s++) {
             int d = A[s + 1] - A[s];

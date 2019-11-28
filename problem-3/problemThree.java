@@ -2,13 +2,13 @@ class ProblemThree {
     public int countSubstrings(String palindrome) {
         int N = palindrome.length()
         int numPalin = 0;
-        for (int center = 0; center <= 2*N-1; ++center) {
-            int left = center / 2;
-            int right = left + center % 2;
-            while (left >= 0 && right < N && palindrome.charAt(left) == palindrome.charAt(right)) {
+        for (int mid = 0; mid <= 2*N-1; ++mid) {
+            int l = mid / 2;
+            int r = l + mid % 2;
+            while (l >= 0 && r < N && palindrome.charAt(l) == palindrome.charAt(r)) {
                 numPalin++;
-                right++;
-                left--;
+                r++;
+                l--;
             }
         }
         return numPalin;

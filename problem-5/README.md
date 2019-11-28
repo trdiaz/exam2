@@ -11,7 +11,7 @@ if x > n, then n isnt perfect square,
 recursively call until n-1.
 
 ## Step-2: Utilization of sub-problems to solve a global problem
-This problem was a bit easier, because it was less overloaded than most problems have been. Breaking the problem down was easier by knowing what makes a square. Check conditions using x and n, then iterate using a for-loop to test if its a square leading to a solution to a global problem.  
+This problem was a bit easier, because it was less overloaded than most problems have been. Breaking the problem down was easier by knowing what makes a square. The use of an array was needed, along with a variable labeled max, to check conditions using x and n, then iterate using a for-loop to test if its a square leading to a solution to a global problem. 
 
 ## Step-3: IDEAL and Duke 7 implementation 
 Breaking down this problem was easier to do knowing what makes a square a square. IDEAL helped by simply reminding me to reflect on old problems. 

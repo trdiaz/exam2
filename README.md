@@ -11,7 +11,7 @@ For each problem:
 - Code your solution.
 
 ### Problems:
-1. Stone-game
+1. Minimum ASCII Delete Sum for Two Strings
 2. Minimum-falling-path-sum
 3. Palindromic-substrings
 4. Arithmetic-slices 

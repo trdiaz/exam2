@@ -8,14 +8,11 @@ Assuming Alex and Lee play optimally, return True if and only if Alex wins the g
 
 ## Step-1: Defining problem and solution recursively
 
-#### Problem
+
+## Step-2: Dynamic Programming 
 
 
-#### Solution
-
-## Step-2
-
-## Step-3
+## Step-3: IDEAL and Duke 7
 
 
 
